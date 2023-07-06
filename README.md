@@ -1,5 +1,17 @@
 # AMPBA2022W_ProjectSplendor
 Capstone project for the ISB AMPBA Course 2022 Winter batch
+
+# Execution of Files
+1. Streamlit Application: 
+	1.	Make sure you have the necessary libraries installed, including streamlit and PyGitHub. You can install them using requirement.txt file 
+	2.	Open a terminal or command prompt and navigate to the directory where the file is saved.
+	3.	Run the Streamlit app by executing the command streamlit run main.py.
+	4.	The Streamlit app will start running, and you will see a URL (e.g., http://localhost:8501) in the terminal.
+	5.	Open a web browser and enter the URL from the previous step.
+	6.	The Streamlit app will be displayed in the browser, and you can interact with it, including uploading a file and seeing the file uploaded to the specified GitHub repository.
+
+2. EDA file,Customer Insights,Model files - use jupyter notebook to execute the notebook, make sure all libraries are pre installed and the file URL is correct. We have provided the input file as well feel free to read it from your local system.
+   
 # Project Splendor - Machine Learning Project
 
 ![Project Splendor](https://github.com/kartirai/AMPBA2022W_ProjectSplendor/raw/master/images/splendor_logo.png)
