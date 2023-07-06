@@ -10,7 +10,7 @@ Capstone project for the ISB AMPBA Course 2022 Winter batch
 	5.	Open a web browser and enter the URL from the previous step.
 	6.	The Streamlit app will be displayed in the browser, and you can interact with it, including uploading a file and seeing the file uploaded to the specified GitHub repository.
 
-2. EDA file,Customer Insights,Model files - use jupyter notebook to execute the notebook, make sure all libraries are pre installed and the file URL is correct. We have provided the input file as well feel free to read it from your local system.
+2. EDA file,Customer Insights,Model files - use jupyter notebook to execute the notebook, make sure all libraries are pre installed and the file URL is correct. We have provided the input file as well feel free to read it from your local system. We have provided the json keys as well, feel free to read them in the code as per your comfort (from your local system). Incase if the key fails then we have exhausted the number of times we can extract results from them for free.
    
 # Project Splendor - Machine Learning Project
 
