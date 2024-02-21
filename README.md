@@ -90,10 +90,3 @@ Contributions to this project are welcome. To contribute, follow these steps:
 4. Commit your changes and push your branch to the remote repository.
 5. Submit a pull request describing your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or suggestions, please contact [your-email-address].
